@@ -3,7 +3,7 @@
 I like writing listicles using markdown beacause I don't get bogged down in the design and look of the article
 Listicles are some of the top viewing articles to write
 
-Here are five things I like about formating technical articles with Markdown:
+Here are five things I like about formating technical articles with **Markdown**:
 
 ## Its easy to write
 
