@@ -1,4 +1,4 @@
-# Intriquing tools I've learned about markdown in my first week
+# Intriquing tools I've learned about in my first week
 
 For me the biggest benefit of learning something knew, is wheather or not it can be useful.
 If the skills and knowledge I've aquired can be implemented into my day-to-day job, and if so how.
