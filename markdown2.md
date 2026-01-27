@@ -31,4 +31,15 @@ To create a new GitHub repository. Follow these steps:
    2. Don't add a gitignore file
    3. Don't need to pick a license (if it's documentation)
 
+## Block Quotes
+
+If you are writing an email and you're going to quote something back that someone said to you.
+You would put the greater-than symbol before each line of text to indicate who said what
+In Markdown, you can add inline quotes, or you can insert a block quote for a longer quotation.
+Example:
+
+> This is a block quote.
+> 
+> Hitting enter will continue the block quote on each line.
+> To stop it, you would hit the backspace.
    
