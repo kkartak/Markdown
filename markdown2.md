@@ -24,5 +24,8 @@ To create a new GitHub repository. Follow these steps:
 2. Enter the repository name
 3. Add a description (optional, but a good idea)
 4. Use the checkboxes to select options
+   1. Add a ReadMe
+   2. Don't add a gitignore file
+   3. Don't need to pick a license (if it's documentation)
 
    
