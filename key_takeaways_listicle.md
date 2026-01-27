@@ -1,4 +1,4 @@
-# 3 Key takeaways I found useful in Markdown
+# 3 Key takeaways of Markdown
 
 ## Markdown being written in Code format
 
